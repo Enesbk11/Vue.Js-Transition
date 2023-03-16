@@ -1,4 +1,4 @@
-# animation-ve-transition
+# animation-transition
 
 > A Vue.js project
 
